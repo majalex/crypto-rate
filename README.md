@@ -1,3 +1,23 @@
+
+# Cryptocurrency Exchange Prices - App
+
+This application downloads data from API where current prices are stored. It includes input field where user can filter displayed results. The color of displayed rates and type of arrows depends on witch direction the price is moving.
+
+
+# Screenshot
+![Zrzut ekranu 2022-09-6 o 18 48 56](https://user-images.githubusercontent.com/105987428/188693354-041c851d-d18b-4ae7-b188-3b2fc1fdd658.png)
+
+
+
+
+
+## Tech Stack
+
+ReactJS, CSS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
